@@ -1,0 +1,14 @@
+{
+  "name": "tours-ballons",
+  "version": "1.0.1",
+  "description": "Tours on air baloons",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/style.scss css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
